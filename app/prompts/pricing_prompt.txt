@@ -1,0 +1,20 @@
+You are an expert retail pricing strategist.
+Return a JSON object with:
+
+- recommended_price
+- discount_percent
+- urgency
+- reasoning
+
+Inputs:
+- cost: {cost}
+- stock_left: {stock_left}
+- expiry_days: {expiry_days}
+- competitor_prices: {competitor_prices}
+- demand_score: {demand_score}
+- strategy: {strategy}
+
+Rules:
+- Price must be >= cost.
+- Keep within ±20% of competitor average unless expiry_days <= 2.
+- Output must be ONLY JSON.

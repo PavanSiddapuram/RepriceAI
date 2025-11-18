@@ -1,0 +1,22 @@
+{
+  "Tomato 1kg": { "zepto": 38, "blinkit": 42, "amazon": 40 },
+  "Milk 500ml": { "zepto": 30, "blinkit": 32, "amazon": 31 },
+  "Onion 1kg": { "zepto": 45, "blinkit": 48, "amazon": 46 },
+  "Potato 1kg": { "zepto": 26, "blinkit": 28, "amazon": 27 },
+  "Eggs 12pcs": { "zepto": 65, "blinkit": 68, "amazon": 66 },
+  "Curd 500g": { "zepto": 32, "blinkit": 35, "amazon": 33 },
+  "Atta 5kg": { "zepto": 280, "blinkit": 290, "amazon": 285 },
+  "Rice 10kg": { "zepto": 420, "blinkit": 450, "amazon": 440 },
+  "Sugar 1kg": { "zepto": 42, "blinkit": 45, "amazon": 44 },
+  "Salt 1kg": { "zepto": 20, "blinkit": 22, "amazon": 21 },
+  "Bread": { "zepto": 45, "blinkit": 48, "amazon": 46 },
+  "Banana 1 dozen": { "zepto": 60, "blinkit": 65, "amazon": 62 },
+  "Apple 1kg": { "zepto": 160, "blinkit": 170, "amazon": 165 },
+  "Grapes 1kg": { "zepto": 110, "blinkit": 120, "amazon": 115 },
+  "Chicken 1kg": { "zepto": 210, "blinkit": 220, "amazon": 215 },
+  "Paneer 200g": { "zepto": 80, "blinkit": 85, "amazon": 83 },
+  "Pepsi 1L": { "zepto": 55, "blinkit": 58, "amazon": 56 },
+  "Oil 1L": { "zepto": 130, "blinkit": 135, "amazon": 132 },
+  "Maggi 12 pack": { "zepto": 140, "blinkit": 150, "amazon": 145 },
+  "Dosa Batter 1kg": { "zepto": 55, "blinkit": 60, "amazon": 58 }
+}
