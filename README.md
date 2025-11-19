@@ -138,20 +138,5 @@ gcloud run deploy repriceai-backend --image gcr.io/repriceai-2025/repriceai-back
 Frontend Deployment (Firebase)
 npm run build
 firebase deploy
-
-⭐ Future Enhancements
-
-Admin Dashboard (Competitor auto-update)
-
-Historical price trends
-
-Inventory auto-sync
-
-Elastic Search-like search API with Firestore Indexes
-
-Wholesale vs Retail mode
-
-🧑‍💻 Author
-
 Pavan Siddapuram
 AI Dev • Builder • Future-Focused Engineer 🚀
