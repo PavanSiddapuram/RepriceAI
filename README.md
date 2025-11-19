@@ -138,5 +138,3 @@ gcloud run deploy repriceai-backend --image gcr.io/repriceai-2025/repriceai-back
 Frontend Deployment (Firebase)
 npm run build
 firebase deploy
-Pavan Siddapuram
-AI Dev • Builder • Future-Focused Engineer 🚀
