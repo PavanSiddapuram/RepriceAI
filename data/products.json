@@ -1,0 +1,23 @@
+[
+  {
+    "id": "tomato",
+    "name": "Tomato",
+    "unit": "kg",
+    "category": "vegetables",
+    "keywords": ["tomato","tamatar","tomto"]
+  },
+  {
+    "id": "milk_500ml",
+    "name": "Milk 500ml",
+    "unit": "litre",
+    "category": "dairy",
+    "keywords": ["milk","doodh","milk 500ml"]
+  },
+  {
+    "id": "eggs_dozen",
+    "name": "Eggs (Dozen)",
+    "unit": "dozen",
+    "category": "poultry",
+    "keywords": ["eggs","egg","dozen"]
+  }
+]

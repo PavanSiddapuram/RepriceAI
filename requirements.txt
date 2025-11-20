@@ -2,5 +2,10 @@ fastapi
 uvicorn[standard]
 google-cloud-firestore
 google-generativeai
+google-cloud-core
+google-auth
+google-auth-oauthlib
 pydantic
 requests
+
+
